@@ -29,7 +29,7 @@
             </goals>
             <configuration>
                 <excludes>
-                    <exclude>**/*test*</exclude>
+                    <exclude>*</exclude>
                 </excludes>
             </configuration>
         </execution>
